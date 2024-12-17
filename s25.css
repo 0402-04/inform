@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 20px;
+    padding: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+header{
+    background-color: bisque;
+}
+section {
+    background-color: bisque ;
+
+}
+footer {
+    text-align: justify;
+    background-color: bisque;
+}
+p{
+    text-align: left;
+    ;
+}
+h1{
+    color: black;
+font-family: Palatino Linotype, Book Antiqua;
+}
+h5{
+    color: black;
+    font-family: Tahoma, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    size: 150%;
+}
