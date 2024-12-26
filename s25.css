@@ -1,28 +1,29 @@
 body{
     background-color: white;
     color: black;
-    margin: 20px;
-    padding: 3px;
+
+    padding: 0px;
+    padding-top: 0%;
+
+    margin-right: 40px;
+    margin-left: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
-header{
-    background-color: bisque;
-}
-section {
-    background-color: bisque ;
-
-}
+header
+section 
 footer {
     text-align: justify;
     background-color: bisque;
 }
-p{
-    text-align: left;
-    ;
-}
+p
 h1{
     color: black;
-font-family: Palatino Linotype, Book Antiqua;
+font-family: 'Times New Roman', Times, serif;
+padding-left: 1cm;
+}
+h3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
 h5{
     color: black;
